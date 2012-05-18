@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Automate, automate and automate"
+tagline: 
 date: 2012-05-15 23:07
 comments: true
 categories: 
