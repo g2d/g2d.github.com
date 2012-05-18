@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 _site/*
 _theme_packages/*
 
@@ -8,3 +9,6 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+=======
+_site/
+>>>>>>> 33bae80e9337fdfb00b6f72094b2ac4b61c89b4a
