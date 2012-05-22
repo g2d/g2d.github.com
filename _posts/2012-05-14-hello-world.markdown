@@ -8,7 +8,7 @@ categories:
 
 Hi everyone, 
 
-I am Gianluigi Di Donato and I'm glad to announce  my new blog, titled "The Advernture of Liinux SysAdmin" powered by Octopress and hosted on GitHub, bheme by bkutil based on Twitter Bootstrap.
+I am Gianluigi Di Donato and I'm glad to announce my new blog "The Advernture of Liinux SysAdmin" powered by Jekyll and hosted on GitHub.
 
 Thank you 
 
