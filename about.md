@@ -7,6 +7,17 @@ group: navigation
 {% include JB/setup %}
 Hi everyone, 
 
-I’m Gianluigi Di Donato a Linux SysAdmin developing passionate. I’m 28 years old and I live in Naples, Italy.  This is my personal blog, where i share from my experience about my professional life “The adventures of a Linux SysAdmin”. 
+I’m Gianluigi Di Donato a Linux SysAdmin and a passionate developer. 
 
-I work every day mainly with Ubuntu/Debian and CentOS/RedHat and sometimes with Gentoo and I’m interested about virtualization, performance cloud and troubleshooting.
+I’m 28 years old and I live in Naples, Italy.  This is my personal blog, where I write from my professional life.
+
+I work every day monstly with Ubuntu/Debian and CentOS/RedHat and I’m interested about performancesand Ruby on Rails framework.
+
+Follow me:
+
+<p id="icons">
+<a class="linkedin" rel="me" href="http://www.linkedin.com/in/gianluigididonato"></a>
+<a class="twitter" rel="me" href="http://twitter.com/g2d"></a>
+<a class="github" rel="me" href="http://github.com/g2d"></a>
+<a class="email" rel="me" href="mailto:gianluigi.didonato@gmail.com"></a>
+</p>

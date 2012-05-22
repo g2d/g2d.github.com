@@ -68,4 +68,31 @@ html, body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
+#icons a {
+    background-image: url("/assets/themes/twitter/bootstrap/img/socialmedia_sprite.png");
+    background-repeat: no-repeat;
+    display: block;
+    float: left;
+    height: 32px;
+    margin-right: 0.5em;
+    width: 32px;
+}
+#icons a.linkedin {
+    background-position: 0 0;
+}
+#icons a.twitter {
+    background-position: 0 -32px;
+}
+#icons a.google {
+    background-position: 0 -64px;
+}
+#icons a.github {
+    background-position: 0 -96px;
+}
+#icons a.flickr {
+    background-position: 0 -128px;
+}
+#icons a.email {
+    background-position: 0 -160px;
+}
+
