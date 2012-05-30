@@ -95,4 +95,6 @@ html, body {
 #icons a.email {
     background-position: 0 -160px;
 }
-
+.right {
+  float: right;
+}
