@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Gianluigi Di Donato</title>
+ <link href="http://gianluigididonato.com/atom.xml" rel="self"/>
+ <link href="http://gianluigididonato.com"/>
+ <updated>2012-06-08T12:12:29+02:00</updated>
+ <id>http://gianluigididonato.com</id>
+ <author>
+   <name>Gianluigi Di Donato</name>
+   <email>gianluigi.didonato@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Work environment</title>
+   <link href="http://gianluigididonato.com/2012/05/15/work-environment"/>
+   <updated>2012-05-15T23:14:00+02:00</updated>
+   <id>http://gianluigididonato.com/2012/05/15/work-environment</id>
+   <content type="html">&lt;p&gt;Taking care of your work environment is a priority. A wery well structured environment makes you work better and faster. Usually I’ve been told that a simple text editor is enough but I don’t agree with that because a sysadmin workframe could be much complex.&lt;/p&gt;
+
+&lt;p&gt;A sysadmin needs a structured environment.&lt;/p&gt;
+
+&lt;p&gt;I am organized as follows:&lt;/p&gt;
+
+&lt;p&gt;1) &lt;em&gt;My bash prompt&lt;/em&gt; Let’s start from the shell: i love bash, costantemente cerco di migliorare la mia produttività. Come tutti i linux sysadmin mi trasferisco da server a server tutto il giorno ho una PS1 abbastanza complessa&lt;/p&gt;
+
+&lt;p&gt;I constantly try to improve my own productivity. As like other linux sysadmins, I jump from a server connection to another all day long and this makes my PS1 complex enough.&lt;/p&gt;
+
+&lt;p&gt;&lt;code&gt;[(1.9.2)gdidonato@naples-laptop#Ubuntu dotfiles (master)]$&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;this PS1 is ideal as for sysadmin as for ruby developers using git, in fact the shown informations are the following:&lt;/p&gt;
+
+&lt;p&gt;ruby version (I use rvm) current user current host Current distribution current subdirectory current branch, if you are in a git repository&lt;/p&gt;
+
+&lt;p&gt;2) &lt;em&gt;My SysAdmin folder&lt;/em&gt; - I use and love Dropbox, by a simple folder on dropbox, where I store all my configuration tips, my scripts, my notes and my personal pkg. For a long time I used a personal Wiki, but I think that the method doesn’t change anything&lt;/p&gt;
+
+&lt;p&gt;3) &lt;em&gt;git&lt;/em&gt; no need to discuss… LOL!&lt;/p&gt;
+
+&lt;p&gt;4) &lt;em&gt;virtual&lt;/em&gt; I use VMware every day, Because all my customers use it. It is so comfortable for me cloning, recycling and moving virtual machines, I have my micro a virtual lab and try the different solutions, experience is a necessity and it is great fun&lt;/p&gt;
+
+&lt;p&gt;5) &lt;em&gt;vim&lt;/em&gt; is the editor par excellence and it’s also found on busybox. I am not a great expert of vim but the more I learn, the more I love it. We have to use VIM for all configurations from development to the reading log.&lt;/p&gt;
+
+&lt;p&gt;6) &lt;em&gt;Google Docs&lt;/em&gt; is a great suite, you cannot ask for better. You can share and collaborate with everyone and in all formats. It’s a must have!&lt;/p&gt;
+
+&lt;p&gt;And finally: I always use &amp;#8230; &amp;#8220;To Do List&amp;#8221;, my favorite tool is Remember The Milk&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Automate, automate and automate</title>
+   <link href="http://gianluigididonato.com/2012/05/15/automate-automate-automate"/>
+   <updated>2012-05-15T23:07:00+02:00</updated>
+   <id>http://gianluigididonato.com/2012/05/15/automate-automate-automate</id>
+   <content type="html">&lt;p&gt;We are always looking for a working method that allows to be more productive, we use many tools such as To-do lists, software, web app, post-it notes, calendar, calendar, etc. &lt;em&gt;(for me todo list is the best)&lt;/em&gt;, but in the work of the sysadmin this is not enough.&lt;/p&gt;
+
+&lt;p&gt;We must gain time every day, and the only way to do it is to automate everything, need to automate at all levels from little scripts for your machine to the production environments .&lt;/p&gt;
+
+&lt;p&gt;For many years I have been opposed to personal customization of shell the dotfiles, I was always wrong about to do it, because how every SysAdmin every day work on dozens of different servers, and for each server there is a story, but I repeat I was wrong about dotfiles, because even a simple shell alias is a first step to automate and improve the quality of work.&lt;/p&gt;
+
+&lt;p&gt;Implement a small automation or a small shortcut with the appropriate controls and monitoring allows you to gain time, allows you to experiment, allows the study.&lt;/p&gt;
+
+&lt;p&gt;To automate not need to be perfect in most cases some bash scripts can greatly improveyour day. Automate your actions and your actions will speed you earn time. There are no operations that should be done only once, all are divisible.&lt;/p&gt;
+
+&lt;p&gt;Ultimately I have to suggest, automate automates automate and again automate.&lt;/p&gt;</content>
+ </entry>
+ 
+ <entry>
+   <title>Hello World</title>
+   <link href="http://gianluigididonato.com/2012/05/14/hello-world"/>
+   <updated>2012-05-14T14:28:00+02:00</updated>
+   <id>http://gianluigididonato.com/2012/05/14/hello-world</id>
+   <content type="html">&lt;p&gt;Hi everyone,&lt;/p&gt;
+
+&lt;p&gt;I am Gianluigi Di Donato and I&amp;#8217;m glad to announce my new blog &amp;#8220;The Advernture of Liinux SysAdmin&amp;#8221; powered by Jekyll and hosted on GitHub.&lt;/p&gt;
+
+&lt;p&gt;Thank you&lt;/p&gt;
+
+&lt;p&gt;Stay tuned&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>

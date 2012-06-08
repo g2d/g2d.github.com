@@ -1,0 +1,10 @@
+
+http://gianluigididonato.com/atom.xml
+http://gianluigididonato.com/sitemap.txt
+http://gianluigididonato.com/index.html
+http://gianluigididonato.com/about.html
+http://gianluigididonato.com/blog.html
+
+http://gianluigididonato.com/2012/05/15/work-environment
+http://gianluigididonato.com/2012/05/15/automate-automate-automate
+http://gianluigididonato.com/2012/05/14/hello-world
