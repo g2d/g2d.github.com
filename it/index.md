@@ -2,7 +2,7 @@
 layout: page
 title: 
 tagline: 
-lang: en
+lang: it
 ---
 {% include JB/setup %}
 <div class="container">

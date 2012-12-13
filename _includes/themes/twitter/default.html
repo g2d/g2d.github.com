@@ -32,9 +32,17 @@
           <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
           <ul class="nav">
             {% assign pages_list = site.pages %}
-            {% assign group = 'navigation' %}
+            {% assign group = page.lang %}
             {% include JB/pages_list %}
-
+            
+      
+          </ul>
+          <ul class="nav pull-right">
+          {% if page.lang == site.lang1 %}
+          <li><a href="/{{ site.lang2 }}">{{ site.lang2_description }}</a></li>
+      	{% else %}
+          <li><a href="/{{ site.lang1 }}">{{ site.lang1_description }}</a></li>
+      	{% endif %}
           </ul>
         </div>
       </div>
