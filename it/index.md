@@ -8,11 +8,11 @@ lang: it
 <div class="container">
 
       <div class="hero-unit">
-        <p>I’m Gianluigi Di Donato, a Linux SysAdmin and a passionate developer.</p> 
-        <p>I’m 28 years old and I live in Naples, Italy. This is my personal website and blog where I write about my professional life.</p> 
-        <p>I work mostly with Ubuntu/Debian and CentOS/RedHat, and I’m interested about performances and Ruby on Rails.</p>
-        <p>To get in touch <a href="mailto:gianluigi.didonato@gmail.com">email</a> is best.</p>
- <p><a class="btn btn-primary btn-large" href="/blog.html">Visit my blog »</a></p>
+        <p>Mi chiamo Gianluigi Di Donato, e sono un sistemista Linux con la passione dello sviluppo.</p> 
+        <p>Ho 28 anni e vivo a Napoli. Questo è il mio sito web e il mio blog dove (provo) a scrivere delle mie esperienze professionali.</p> 
+        <p>Lavoro quotidianamente con le più diffuse distribuzioni Linux e sono interessato alle Performances e a Ruby on Rails.</p>
+        <p>Per contattarmi il mezzo migliore <a href="mailto:gianluigi.didonato@gmail.com">scrivermi</a> </p>
+ <p><a class="btn btn-primary btn-large" href="/blog.html">Guarda il mio blog »</a></p>
       </div>
 
 <div class="right">
