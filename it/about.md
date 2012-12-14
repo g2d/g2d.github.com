@@ -9,12 +9,11 @@ lang: it
 <div class="container">
 
       <div class="hero-unit">
-        <p>Hi everyone,</p>
-        <p>My name is Gianluigi Di Donato, a Linux SysAdmin and a passionate developer.</p> 
-        <p>I’m 28 years old and I live in Naples, Italy.</p> 
-        <p>If you're interested in Linux, performance and Ruby, have a look at <a href="/blog.html">my blog</a></p>
-        <p>In <a href="http://it.linkedin.com/in/gianluigididonato">my linkedin profile</a> you can find details of my professional background.</p>
-        <p>If you want to get in touch me, even just to say Hi, <a href="mailto:gianluigi.didonato@gmail.com">email</a> is best.</p>
+        <p>Sono Gianluigi Di Donato un sistemista Linux con la passione dello sviluppo.</p> 
+        <p>Ho 28 anni e vivo a Napoli.</p> 
+        <p>Se ti interessano Linux, le performance, e Ruby on Rails, tieni d'occhio il  <a href="blog.html">mio blog</a></p>
+        <p>Nel <a href="http://it.linkedin.com/in/gianluigididonato">mio profilo linkedin </a> potrai trovare i dettagli del mio background professionale.</p>
+        <p>Per contattarmi il modo migliore e scrivermi qualche riga via <a href="mailto:gianluigi.didonato@gmail.com">email</a> </p>
 
 
 
