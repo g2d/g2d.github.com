@@ -9,11 +9,9 @@ lang: it
 <div class="container">
 
       <div class="hero-unit">
-        <p>Sono Gianluigi Di Donato un sistemista Linux con la passione dello sviluppo.</p> 
-        <p>Ho 28 anni e vivo a Napoli.</p> 
-        <p>Se ti interessano Linux, le performance, e Ruby on Rails, tieni d'occhio il  <a href="blog.html">mio blog</a></p>
+        <p>Mi chiamo Gianluigi Di Donato un sistemista Linux con la passione per lo sviluppo.</p> 
         <p>Nel <a href="http://it.linkedin.com/in/gianluigididonato">mio profilo linkedin </a> potrai trovare i dettagli del mio background professionale.</p>
-        <p>Per contattarmi il modo migliore e scrivermi qualche riga via <a href="mailto:gianluigi.didonato@gmail.com">email</a> </p>
+        <p>Per contattarmi il modo migliore è usare l'<a href="mailto:gianluigi.didonato@gmail.com">email</a> </p>
 
 
 

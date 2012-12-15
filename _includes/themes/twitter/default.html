@@ -33,10 +33,8 @@
           <ul class="nav">
             {% assign pages_list = site.pages %}
             {% assign group = page.lang %}
-            {% include JB/pages_list %}
-            
-      
-          </ul>
+            {% include JB/pages_list %}           
+                </ul>
           <ul class="nav pull-right">
           {% if page.lang == site.lang1 %}
           <li><a href="/{{ site.lang2 }}">{{ site.lang2_description }}</a></li>
