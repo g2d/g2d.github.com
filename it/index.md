@@ -12,7 +12,7 @@ lang: it
         <p>Ho 29 anni e vivo a Napoli. Questo è il mio sito web e il mio blog dove (provo) a scrivere delle mie esperienze professionali.</p> 
         <p>Lavoro quotidianamente con le più diffuse distribuzioni Linux e sono interessato alle Performances e a Ruby on Rails.</p>
         <p>Per contattarmi il modo migliore è <a href="mailto:gianluigi.didonato@gmail.com">scrivermi</a> </p>
- <p><a class="btn btn-primary btn-large" href="/blog.html">Guarda il mio blog »</a></p>
+ <p><a class="btn btn-primary btn-large" href="/it/blog.html">Guarda il mio blog »</a></p>
       </div>
 
 <div class="right">
