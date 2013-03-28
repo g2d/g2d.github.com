@@ -7,10 +7,11 @@ categories:
 lang: it
 ---
 
-Hi everyone, 
+Salve a tutti,
 
-I am Gianluigi Di Donato and I'm glad to announce my new blog "The Advernture of Liinux SysAdmin" powered by Jekyll and hosted on GitHub.
+Sono Gianluigi Di Donato e sono lieto di annunciare la nascita del mio blog "The Adverntures of Linux SysAdmin".
+Il blog è realizzato con Jekyll e ospitato da GitHub.
 
-Thank you 
+Grazie a tutti
 
 Stay tuned
