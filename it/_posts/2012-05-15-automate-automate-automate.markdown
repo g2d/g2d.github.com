@@ -7,15 +7,16 @@ comments: true
 categories: 
 lang: it
 ---
-We are always looking for a working method that allows to be more productive, we use many tools such as To-do lists, software, web app, post-it notes, calendar, calendar, etc. _(for me todo list is the best)_, but in the work of the sysadmin this is not enough.
+Tutti noi siamo sempre alla ricerca di metodi, strumenti e strategie per migliorare e rendere più produttivo il nostro lavoro, spesso utilizziamo molti metodi e tools come To do List, software, applicazioni on line, post-it, calendari etc. _(Personalmente ritengo che le to do list siano il metodo migliore)_, ma nel lavoro dei SysAdmin (e non solo) spesso tutto ciò non è abbastanza.
 
-We must gain time every day, and the only way to do it is to automate everything, need to automate at all levels from little scripts for your machine to the production environments . 
+Abbiamo bisogno di guadagnare tempo tutti i giorni, l'unico modo per farlo è automatizzare ogni cosa, è necessario automatizzare a tutti i livelli dai piccoli script per la propria macchina personale agli ambienti di produzione.
+ 
+Per molti anni mi sono opposto alla personalizzazione della shell e dei dotfiles, ebbene si, *ho sempre sbagliato, non avevo capito niente*, mi giustificavo dicendo che da buon SysAdmin passavo la mia giornata tra dozzine di shell di server e ambienti diversi e ogni server era una storia a se, per essere chiaro voglio ripetermi riguardo i dotfiles "mi sono sempre sbagliato",basta un semplice alias di shell per iniziare ad automatizzare e migliorare la qualità del proprio lavoro e di conseguenza della produttività.
 
-For many years I have been opposed to personal customization of shell the dotfiles, I was always wrong about to do it, because how every SysAdmin every day work on dozens of different servers, and for each server there is a story, but I repeat I was wrong about dotfiles, because even a simple shell alias is a first step to automate and improve the quality of work.
+Implementare una piccola automazione o un piccolo shortcut, con gli opportuni controlli e monitoraggi aiuterà a guadagnare tempo, aiuterà a sperimentare e a studiare.
 
-Implement a small automation or a small shortcut with the appropriate controls and monitoring allows you to gain time, allows you to experiment, allows the study.
+Per automatizzare non è necessario essere perfetti, nella maggior parte dei casi qualche semplice script potrà notevolmente migliorare la giornata. Automatizzare le azioni significa semplicemente velocizzarle e guadagnare tempo.
 
-To automate not need to be perfect in most cases some bash scripts can greatly improveyour day. Automate your actions and your actions will speed you earn time.
-There are no operations that should be done only once, all are divisible.
+Non esistono operazioni che vengono effettuate una sola volta, tutto può essere scomposto in operazioni più semplici tutto è divisibile.
 
-Ultimately I have to suggest, automate automates automate and again automate.
+In fine mi sento di suggerire a me stesso e a tutti automatizza, automatizza e ancora automatizza.
