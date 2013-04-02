@@ -7,7 +7,7 @@ categories:
 lang: en
 ---
 Taking care of your work environment is a priority.
-A wery well structured environment makes you work better and faster. Usually I’ve been told that a simple text editor is enough but I don’t agree with that because a sysadmin workframe could be much complex.
+A very well structured environment makes you work better and faster. Usually I’ve been told that a simple text editor is enough but I don’t agree with that because a sysadmin workframe could be much complex.
 
 A sysadmin needs a structured environment.
 
@@ -15,7 +15,7 @@ I am organized as follows:
 
 1) _My bash prompt_
 Let’s start from the shell: i love bash, costantemente cerco di migliorare la mia produttività.
-Come tutti i linux sysadmin mi trasferisco da server a server tutto il giorno ho una PS1 abbastanza complessa
+As all linux SysAdmin, I daily come from server to server and I have a PS1 line very complex.
 
 I constantly try to improve my own productivity. As like other linux sysadmins, I jump from a server connection to another all day long and this makes my PS1 complex enough.
 
