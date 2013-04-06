@@ -6,40 +6,40 @@ comments: true
 categories: 
 lang: it
 ---
-Taking care of your work environment is a priority.
-A wery well structured environment makes you work better and faster. Usually I’ve been told that a simple text editor is enough but I don’t agree with that because a sysadmin workframe could be much complex.
+Prendersi cura del proprio ambiente di lavoro è una priorità.
 
-A sysadmin needs a structured environment.
+Un ambiente ben strutturato consente di lavorare meglio e più velocemente. Di solito si sente dire, basta un editor di testo e il gioco è fatto, ma non sono d'accordo con quello perché un ambiente di lavoro per amministratore di sistema può essere anche molto complesso.
 
-I am organized as follows:
 
-1) _My bash prompt_
-Let’s start from the shell: i love bash, costantemente cerco di migliorare la mia produttività.
-Come tutti i linux sysadmin mi trasferisco da server a server tutto il giorno ho una PS1 abbastanza complessa
+un SysAdmin ha bisodno di un ambiente di lavoro molto strutturato. Io mi sono organizzato così:
 
-I constantly try to improve my own productivity. As like other linux sysadmins, I jump from a server connection to another all day long and this makes my PS1 complex enough.
+1) _Bash prompt_
+
+Amo bash ed è un ottima amica, consente il miglioramento continuo della produttività.
+Come tutti i linux sysadmin mi trasferisco da server a server tutto il giorno ho una PS1 abbastanza complessa è questa:
+
 
 `[(1.9.2)gdidonato@naples-laptop#Ubuntu dotfiles (master)]$`
 
-this PS1 is ideal as for sysadmin as for ruby developers using git, in fact the shown informations are the following:
+a mio parere questa PS1 è ideale per un SysAdmin, per uno sviluppatore ruby che usa git _(come si può non usare git)_. A colpo d'occhio le informazioni fornite dalla PS1 sono le seguenti:
 
-ruby version (I use rvm)
-current user
-current host
-Current distribution 
-current subdirectory
-current branch, if you are in a git repository
-
-
-2) _My SysAdmin folder_  - I use and love Dropbox, by a simple folder on dropbox, where I store all my configuration tips, my scripts, my notes and my personal pkg. For a long time I used a personal Wiki, but I think that the method doesn’t change anything
-
-3) _git_ no need to discuss… LOL!
-
-4) _virtual_ I use VMware every day, Because all my customers use it. It is so comfortable for me cloning, recycling and moving virtual machines, I have my micro a virtual lab and try the different solutions, experience is a necessity and it is great fun
-
-5) _vim_ is the editor par excellence and it’s also found on busybox. I am not a great expert of vim but the more I learn, the more I love it. We have to use VIM for all configurations from development to the reading log.
-
-6) _Google Docs_ is a great suite, you cannot ask for better. You can share and collaborate with everyone and in all formats. It’s a must have!
+Ruby version (Io uso rvm)
+Utente corrente
+Host corrente
+Distrubuzione corrente 
+Subdirectory corrente
+Branch corrente, se sei in un repository git
 
 
-And finally: I always use ... "To Do List", my favorite tool is Remember The Milk
+2) _My SysAdmin folder_   Uso con soddisfazione Dropbox, in una cartella dropbox, conservo tutti i miei tips, gli scripts, le note personali e qualche pacchetto di rara diffusione. Per molto tempo ho provato ad utilizzare un Wiki personale ma... quello che conta è il risultato e quindi conservare i file
+
+3) _git_ non è necessario discutere .… LOL!
+
+4) _virtual_ Attualmente uso VMware tutti i giorni, la motivazione è semplice: tuutti i miei clienti lo usano e quindi è estremamente comodo per me, clonare, spostare e riciclare macchine. Ho un mio piccolo laboratorio dove provo e sperimento le differenti soluzioni confesso che è molto divertente.
+
+5) _vim_ è l'edito per eccellenza, lo uso anche su busybox, non sono un grande esperto ma più lo conosco più me ne innamoro. Dobbiamo usare Vim sempre, dalle configurazioni allo sviluppo passando per la lettura dei log.
+
+6) _Google Docs_ Una suite a dir poco fantastica, non esiste nulla di meglio. Si può condividere e collaborare con tutti in tutti i formati. 
+
+
+Ed infine utilizzo moltissimo le "To do List"..
